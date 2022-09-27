@@ -41,7 +41,7 @@
   
 ### Development by
 
-Developer / Author: [0x1ucif3r](https://www.instagram.com/0x1ucif3r/)
+Developer / Author: [0x1ucif3r](https://github.com/1ucif3r)
   
   
 ### <h2 align="center">😈 Visit 😈 </h2>
